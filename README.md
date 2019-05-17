@@ -1,11 +1,9 @@
 # ArrayChunkSum
 ##Largest subarray problem
- The input is an array of numbers· e¸g¸ arr [-7, -1, 6,-10, -8, 5, -5, 4, 3,-2, 9, -2, 1, -9]
+ `The input is an array of numbers· e¸g¸ arr [-7, -1, 6,-10, -8, 5, -5, 4, 3,-2, 9, -2, 1, -9]
    Your task is to find the contiguous subarray of arr with the maximal sum of numbers
-  write the function that will find and return that sum
+  write the function that will find and return that sum`
  
-
-
 ```$JavaScript
 let array = [-7, -1, 6,-10, -8, 5, -5, 4, 3,-2, 9, -2, 1, -9];
 let arrLength = array.length + 1;
